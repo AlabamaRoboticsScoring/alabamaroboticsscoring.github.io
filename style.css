@@ -1,0 +1,101 @@
+
+
+.nav{
+    border:1px solid black;
+    border-width:2px 0;
+    width:300px;
+    list-style:none;
+    margin:auto;
+    padding:0;
+    text-align:center; 
+}
+
+.nav li{
+    display:inline;
+    font-family: monospace;
+    font-size: 15px;
+    font-style: none;
+    color: black;
+    font-weight: 10px;
+}
+.nav a{
+    display:inline-block;
+    padding:10px;
+    color:#990000;
+    font-style: none; 
+    text-decoration: none;
+}
+
+h1 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: monospace;
+	text-align: center; 
+	color: #990000;
+}
+
+p {
+	font-family: monospace;
+	text-align: center; 
+}
+
+
+
+img.centered {
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 10px solid  black; 
+   
+}
+
+.contact {
+	width: 750px; 
+	padding:10px;
+	border: 3px solid black; 
+	border-radius: 25px;
+	margin:auto;
+	background-color: white;
+	text-align: center;
+	position: relative;
+	font-family: monospace;
+
+}
+
+.content {
+	width: 750px; 
+	padding:10px;
+	border: 3px solid black; 
+	border-radius: 25px;
+	margin:auto;
+	background-color: white;
+
+}
+
+body {
+	background-color: gray;
+}
+
+h2 {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 15px;
+	font-family: monospace;
+	text-align: center;
+}
+
+.srs a {
+	text-align: center;
+
+}
+
+li {
+	font-family: monospace;
+	text-align: center;
+}
+
+div {
+	font-family: monospace;
+}
+
+
